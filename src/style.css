@@ -448,7 +448,7 @@ header{
     text-align: center;
     justify-content: center;
     align-items: center;
-    background:  linear-gradient(103.92deg, #ff006abe, #30244cda), url('../../assets/bg/img-caller.jpg');
+    background:  linear-gradient(103.92deg, #ff006abe, #30244cda), url('../assets/bg/img-caller.jpg');
 }
 .caller>h1{
     margin-bottom: 0.7em;
@@ -555,7 +555,7 @@ header{
     padding: 3em 0px;
 }
 .cust-profile{
-    background-image: url('../../assets/testi-decorative.svg');
+    background-image: url('../assets/testi-decorative.svg');
     background-position:9rem;
     background-size: cover;
 }

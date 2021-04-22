@@ -745,7 +745,7 @@ input[type=submit]:hover {
         padding-left: 2em;
     }
     .content-hero>h1{
-    margin-left:1em;
+        padding-left:1em;
     }
     .desc-content{
         align-self: flex-end;

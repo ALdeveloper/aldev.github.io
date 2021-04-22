@@ -745,7 +745,7 @@ input[type=submit]:hover {
         padding-left: 2em;
     }
     .content-hero>h1{
-        padding-left:1em;
+        padding-left:0em;
         display:block;
     }
     .desc-content{

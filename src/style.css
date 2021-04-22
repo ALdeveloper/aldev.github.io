@@ -734,17 +734,17 @@ input[type=submit]:hover {
 
     /* Hero */
     .img-hero>img{
-        width: 100%;
+        width: 25em;
         margin: 2em 0px;
         margin-bottom: 2em;
         overflow: hidden;
     }
     .content-hero>h1,.content-hero>div.sosmed-icon{
-        padding-left: 9%;
+        padding-left: 1em;
     }
     .desc-content{
         align-self: flex-end;
-        padding: 9%;
+        padding: 1em;
     }
     .btn-content{
         flex-direction: column;

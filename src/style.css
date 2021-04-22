@@ -741,8 +741,11 @@ input[type=submit]:hover {
         margin-bottom: 1.3em;
         overflow: hidden;
     }
-    .content-hero>h1,.content-hero>div.sosmed-icon{
+    .content-hero>div.sosmed-icon{
         padding-left: 2em;
+    }
+    .content-hero>h1{
+    margin-left:1em;
     }
     .desc-content{
         align-self: flex-end;

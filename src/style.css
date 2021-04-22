@@ -738,11 +738,11 @@ input[type=submit]:hover {
     .img-hero>img{
         width: 20em;
         margin: 2em 0px;
-        margin-bottom: 2em;
+        margin-bottom: 1.3em;
         overflow: hidden;
     }
     .content-hero>h1,.content-hero>div.sosmed-icon{
-        padding-left: 1em;
+        padding-left: 2em;
     }
     .desc-content{
         align-self: flex-end;

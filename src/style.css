@@ -442,13 +442,15 @@ header{
 /* Caller */
 .caller{
     padding: 7%;
-    height: 100vh;
+    height: 39em;
     display: flex;
     flex-direction: column;
     text-align: center;
     justify-content: center;
     align-items: center;
     background:  linear-gradient(103.92deg, #ff006abe, #30244cda), url('../assets/bg/img-caller.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .caller>h1{
     margin-bottom: 0.7em;
